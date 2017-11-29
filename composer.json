@@ -1,0 +1,19 @@
+{
+  "name": "mwdelaney/sage-the-events-calendar-menu-classes",
+  "description": "WordPress Nav Menu highlighting for The Events Calendar events",
+  "keywords": ["wordpress", "The Events Calendar", "wp_nav_menu"],
+  "homepage": "https://github.com/MWDelaney/sage-the-events-calendar-menu-classes",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael W. Delaney",
+      "email": "michael@michaeldelaney.me"
+		}
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+	"autoload": {
+    "files": ["sage-the-events-calendar-menu-classes.php"]
+  }
+}
